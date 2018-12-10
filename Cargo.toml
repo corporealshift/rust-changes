@@ -1,0 +1,12 @@
+[package]
+name = "changeswr"
+version = "0.1.0"
+authors = ["Kyle Diedrick <kyle.diedrick@pgi.com>"]
+
+[dependencies]
+mktemp = "0.3.1"
+reqwest = "0.9.5"
+serde = "1.0.80"
+serde_json = "1.0.33"
+serde_derive = "1.0.80"
+git2 = "0.7.5"
